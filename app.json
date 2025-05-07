@@ -1,7 +1,7 @@
 {
   "name": "≛⃝✦☠︎ 𝕊ℍΛ฿Λ฿ ⚡𓆩𝕏𖤐𝕏𓆪",
   "description": "A WhatsApp Bot Created By shabab",
-  "logo": "https://telegra.ph/file/f6230a0cb5b118fa01561.jpg",
+  "logo": "https://i.ibb.co/pvjm52wY/shabab-anime-image.png",
   "keywords": ["bot", "WhatsApp", "JavaScript"],
   "success_url": "/",
   "stack": "heroku-24",
@@ -36,7 +36,7 @@
     },
     "AUTO_VIEW_STATUS": {
       "description": "Auto-view saved WhatsApp statuses.",
-      "value": "true",
+      "value": "false",
       "required": false
     },
     "CHATBOT": {
@@ -51,7 +51,7 @@
     },
     "OWNER_NUMBER": {
       "description": "The phone numbers of the users who you want to be admin for the bot (should be in international format without + and multiple numbers must be separated by a comma \",\").",
-      "value": "2349066528353"
+      "value": "2349054266349"
     },
     "PUBLIC": {
       "description": "Worktype of your bot. Use public or private. If it is private, then only the bot number can use it. If public, then everyone can use it.",
@@ -59,7 +59,7 @@
     },
     "AUTHOR": {
       "description": "Put Sticker Pack Author_Name.",
-      "value": "𝐃𝐀𝐕𝐈𝐃 𝐂𝐘𝐑𝐈𝐋",
+      "value": "Shabab",
       "required": false
     }
   },
