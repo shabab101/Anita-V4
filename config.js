@@ -3,13 +3,12 @@ require('dotenv').config();
 
 // Helper function to convert "true"/"false" strings to real booleans
 const toBool = (value) => value === "true";
-
 // Owner & Bot Details
 global.owner = process.env.OWNER_NUMBER;
 global.anitav4 = process.env.BOT_NAME || "≛⃝✦☠︎ 𝕊ℍΛ฿Λ฿ ⚡𓆩𝕏𖤐𝕏𓆪";
-global.ownername = process.env.OWNER_NAME || "shabab";
+global.ownername = process.env.OWNER_NAME || "Shabab";
 global.packname = process.env.PACK_NAME || "≛⃝✦☠︎ 𝕊ℍΛ฿Λ฿ ⚡𓆩𝕏𖤐𝕏𓆪";
-global.author = process.env.AUTHOR || "shabab";
+global.author = process.env.AUTHOR || "Shabab";
 global.channelname = process.env.CHANNEL_NAME || "≛⃝✦☠︎ 𝕊ℍΛ฿Λ฿ ⚡𓆩𝕏𖤐𝕏𓆪";
 global.channeljid = process.env.CHANNEL_JID || "120363315231436175@newsletter";
 
